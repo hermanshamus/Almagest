@@ -1,7 +1,10 @@
 What do the stars do?
   Abilites based on Stars
     How to Channel power
-    Ore, Totem, Only active at night 
+    Ore, Totem, Only active at night
+  New Cord system for MC (makes the game harder)
+  tresure maps? 
+   
 How to make it have progression
 
 Types of stars do diffrent things
